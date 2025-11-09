@@ -1,0 +1,11 @@
+# Hybrid Lip Reading Project - Requirements
+
+tensorflow>=2.10.0
+keras>=2.10.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+opencv-python>=4.5.0
+matplotlib>=3.4.0
+scipy>=1.7.0
+joblib>=1.1.0
+pillow>=8.0.0

@@ -1,0 +1,63 @@
+# Virtual Environment folders
+lip_ml_env/
+venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Data (optional - exclude large video files)
+data/
+*.mpg
+*.mp4
+*.avi
+
+# Models (optional - large weights)
+models/*.h5
+models/*.pkl
+
+# Output images/files
+*.png
+*.jpg
+confusion_matrices.png
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log
+
+# Environment files
+.env
+.tmp
